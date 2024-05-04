@@ -1,0 +1,1 @@
+package com.jisu.emp_management.repo;import com.jisu.emp_management.model.AdminMsg;import org.springframework.data.jpa.repository.JpaRepository;public interface MessageRepo extends JpaRepository<AdminMsg,Integer> {}
